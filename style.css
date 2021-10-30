@@ -1,0 +1,31 @@
+body {
+  background: lightblue;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+
+a:hover{
+  color:black
+}
+
+a {
+  text-align: center;
+
+}
+
+
+.navbar1{
+  background-color:aliceblue;
+}
+
+h2 {
+  color: lightcoral;
+  text-decoration: underline;
+  
+  
+  
+}
